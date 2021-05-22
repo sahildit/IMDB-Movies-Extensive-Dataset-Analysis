@@ -5,7 +5,7 @@ The movie dataset includes 85,855 movies with attributes such as movie descripti
 •	Demonstrate the true understanding of what the data says using Visualisation.
 The data sets contain the information about IMDB movies website which is most popular at that moment for online movie streaming. It combines movie plot description. Ratings, critic and user ratings, release dates and many more aspects. This data can be plotted in different categories which includes bar graph, scatter plot, cloud representation, etc.
 
-For example, if we plot the genre column and find the Top 3 Movie Genres, then we can plot it something like this:
+For example, if we plot the genre column and find the Top 3 Movie Genres, then we can plot it something like this:-
 
 ![top3genres](https://user-images.githubusercontent.com/47186806/117329468-91d14e80-ae8c-11eb-8ab2-25a9ca9aac39.PNG)
 
